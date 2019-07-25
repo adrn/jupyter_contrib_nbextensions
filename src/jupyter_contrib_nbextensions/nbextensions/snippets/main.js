@@ -4,7 +4,7 @@ define([
     'jquery',
     'base/js/namespace',
     'base/js/dialog'
-], function(requirejs, $, Jupyter, python, markdown) {
+], function($, Jupyter, huh) {
     "use strict";
 
     var initialize = function () {
